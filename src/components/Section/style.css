@@ -1,0 +1,63 @@
+.car_box {
+    width: 584px;
+    position: relative;
+    margin-top: 20px;
+}
+
+
+
+.section1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.car_box:hover .hover-car-texts {
+    transform: scale(1);
+
+}
+
+
+.section_text {
+    padding-top: 180px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: #FFF;
+    text-align: center;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: 0.312px;
+}
+
+.hover-text-top {
+    text-align: start;
+    margin-left: 48px;
+    margin-top: 40px;
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 52px;
+    letter-spacing: 0.24px;
+}
+
+
+.hover-text-bottom {
+    text-align: end;
+    margin-right: 48px;
+    padding-top: 340px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0.144px;
+}
+
+
+.hover-car-texts {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    transform: scale(0);
+    transition: .4s;
+}

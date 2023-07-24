@@ -1,0 +1,17 @@
+.Lokatiln {
+    color: #FFF;
+    text-align: center;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: 0.312px;
+    margin-bottom: 40px;
+}
+
+.map_xarita {
+    width: 1200px;
+    height: 524px;
+    flex-shrink: 0;
+    margin: auto;
+    margin-bottom: 100px;
+}

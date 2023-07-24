@@ -1,0 +1,20 @@
+.orange {
+    background: #EE8313;
+    padding: 12px 24px;
+    outline: none;
+    border: none;
+    color: #fff;
+    font-style: normal;
+
+}
+
+
+.orange_secondary {
+    padding: 12px 24px;
+    border: 1px solid #EE8313;
+    color: #EE8313;
+    font-size: 16px;
+    font-weight: 600;
+    background: transparent;
+    letter-spacing: 0.16px;
+}

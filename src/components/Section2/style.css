@@ -1,0 +1,45 @@
+.our {
+    color: #FFF;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: 0.312px;
+    margin-top: 120px;
+    margin-bottom: 60px;
+}
+
+
+.card_box {
+    width: 385px;
+}
+
+
+.carin1 {
+    padding-bottom: 25px;
+}
+
+
+.charts {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.144px;
+    margin-bottom: 15px;
+}
+
+
+.mobile {
+    color: #c5c4c4;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0.096px;
+}
+
+
+.sections2{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 120px;
+}
